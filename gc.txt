@@ -15,5 +15,11 @@ https://github.com/zhouxiang-710/advancedTurtle.git
 
 https://www.cnblogs.com/bluemapleman/p/9277064.html
 https://www.cnblogs.com/wupeixuan/p/8670341.html
-
-https://blog.csdn.net/qq_42894896/article/details/82256770(java性能调优)
+(java性能调优)
+https://blog.csdn.net/qq_42894896/article/details/82256770
+https://blog.csdn.net/Don_mingo/article/details/89316888
+https://www.cnblogs.com/objJava/p/9035355.html
+https://cloud.tencent.com/developer/article/1493048
+https://cloud.tencent.com/developer/article/1328424
+java性能调优工具
+https://www.cnblogs.com/timlearn/p/4088626.html
