@@ -1,0 +1,12 @@
+浅谈GC
+Java主流虚拟机-HotSpot的GC实现机制
+https://www.bbsmax.com/A/gVdnrOVldW/
+https://www.bbsmax.com/A/B0zqm0Znzv/
+https://zhidao.baidu.com/question/981904151505254899.html
+https://blog.csdn.net/qq_36314960/article/details/79923581
+https://www.oschina.net/news/54335/list_of_java_virtual_machines
+https://blog.csdn.net/liyang_nash/article/details/78742623
+https://blog.csdn.net/lsx2017/article/details/81273548
+https://blog.csdn.net/Good_Luck_Li/article/details/89673926
+https://blog.csdn.net/lpjishu/article/details/53260099
+https://www.cnblogs.com/luozhiyun/p/10546608.html
