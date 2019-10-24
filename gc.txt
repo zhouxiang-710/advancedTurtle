@@ -23,6 +23,9 @@ https://cloud.tencent.com/developer/article/1493048
 https://cloud.tencent.com/developer/article/1328424
 java性能调优工具
 https://www.cnblogs.com/timlearn/p/4088626.html
+https://blog.csdn.net/lingbo229/article/details/84937139
+GC调优-GC算法实现
+https://blog.csdn.net/lingbo229/article/details/84936701
 
 
 面试题：“你能不能谈谈，java GC是在什么时候，对什么东西，做了什么事情？”
